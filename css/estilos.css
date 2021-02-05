@@ -48,7 +48,7 @@ body {
 /*  Estilos de Materialize  */
 /*  ----------------------  */
 .carousel {
-    min-height: 700px;
+    min-height: 600px;
 
 }
 
@@ -61,8 +61,8 @@ body {
     justify-content: flex-end;
     align-items: center;
     user-select: none;
-    width: 90%;
-    height: 100%;
+    width: 400px;
+    height: 600px;
 }
 
 

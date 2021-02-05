@@ -19,9 +19,9 @@ body {
 
 .subtitulo {
     margin: 0;
-    color: #000;
+    color: cyan;
     display: inline;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 500;
     text-transform: uppercase;
 }
@@ -29,7 +29,7 @@ body {
 .sabor { 
     color: #fff;
     margin: 0px 0;
-    font-size: 40px;
+    font-size: 20px;
     font-weight: 400;
     text-shadow: 2px 2px 1px rgba(0,0,0,0.7);
     font-family: 'Dancing Script', cursive;
@@ -66,7 +66,7 @@ body {
 
 
 .carousel .carousel-item img{
-    width: 100%;
+    width: 80%;
     height: 100%;
     object-fit: cover;
     position: absolute;

@@ -21,7 +21,7 @@ body {
     margin: 0;
     color: cyan;
     display: inline;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 500;
     text-transform: uppercase;
 }
@@ -38,7 +38,7 @@ body {
 
 .linea-division {
     width: 80%;
-    height: 3px;
+    height: 2px;
     background-color: #36221c;
 }
 
@@ -47,7 +47,7 @@ body {
 /*  Estilos de Materialize  */
 /*  ----------------------  */
 .carousel {
-    min-height: 500px;
+    min-height: 570px;
 
 }
 
